@@ -6,4 +6,5 @@
 
   <project path="emu_linux" name="willfchen/emu_linux" />
   <project path="emu_atf" name="willfchen/emu_atf" />
+  <project path="emu_build" name="willfchen/emu_build" />
 </manifest>
