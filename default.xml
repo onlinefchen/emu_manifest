@@ -2,7 +2,7 @@
 <manifest>
   <remote name="github" fetch="https://github.com/" />
 
-  <default revision="main" remote="github" />
+  <default revision="master" remote="github" />
 
   <project path="emu_linux" name="willfchen/emu_linux" />
   <project path="emu_atf" name="willfchen/emu_atf" />
